@@ -34,7 +34,7 @@ g. Спроектировать ER модель (https://www.dbdesigner.net/), �
 
 На семинаре с преподавателем проектируется приложение управления роботом пылесосом. Задание разбито на 3 части. На 10 семинаре разбирается UI приложения (пример приведен снизу). UserCase диаграмма и структура данных. Студент должен сформировать документы, согласно разобранных схем. Приветствуется добавление деталей или кейсов(решаемых задач).
 
-![Снимок экрана 2022-12-06 в 17.35.01.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/809097fd-dbf0-4b32-8159-248667289038/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-12-06_%D0%B2_17.35.01.png)
+![Снимок экрана 2022-12-06 в 17.35.01.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/1.png)
 
 Задание выполняется для приложения управления роботом пылесосом(подробно разбирается на семинаре)
 
@@ -62,16 +62,26 @@ g. Спроектировать ER модель (https://www.dbdesigner.net/), �
 
 USERCASE диаграмма
 
-![Снимок экрана 2022-12-06 в 17.35.12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/65628cae-ef00-4f1b-85d5-96996e2cb232/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-12-06_%D0%B2_17.35.12.png)
+![Снимок экрана 2022-12-06 в 17.35.12.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/USERCASE%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.png)
 
 ERD диаграмма
 
-![Снимок экрана 2022-12-06 в 17.35.20.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f10c27b-cbd6-49f6-910a-1bb3eb5d9d05/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-12-06_%D0%B2_17.35.20.png)
+![Снимок экрана 2022-12-06 в 17.35.20.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/ERD%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.png)
 
 UI
 
-![Снимок экрана 2022-12-06 в 17.35.40.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/934863e6-7466-49ca-8107-d9d4cc2ea5e4/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-12-06_%D0%B2_17.35.40.png)
+![Снимок экрана 2022-12-06 в 17.35.40.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/UI.png)
 
-![Снимок экрана 2022-12-06 в 17.36.38.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79cd784f-6380-4e08-b611-b00a268045a6/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-12-06_%D0%B2_17.36.38.png)
+![Снимок экрана 2022-12-06 в 17.36.38.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/UI2.png)
 
 API
+
+![Снимок экрана 2022-12-06 в 17.35.40.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/API.png)
+
+![Снимок экрана 2022-12-06 в 17.36.38.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/API2.png)
+
+![Снимок экрана 2022-12-06 в 17.36.38.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/API3.png)
+
+![Снимок экрана 2022-12-06 в 17.36.38.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/API4.png)
+
+![Снимок экрана 2022-12-06 в 17.36.38.png](https://github.com/Ask1509/Software_Architecture_HW10/blob/1a3d8ccdc8c30584981de8c8ba44f67a94a28ae5/png/API5.png)
