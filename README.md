@@ -32,6 +32,7 @@
 
 ![First client screen](https://github.com/Ask1509/Software_Architecture_HW10/blob/b695495918e058499d15f3a3afc4c53b03c76e9f/img/client01.png)
 
+
 ![Second client screen](/img/client02.png)
 
 
