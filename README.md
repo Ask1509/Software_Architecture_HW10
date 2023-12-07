@@ -30,7 +30,7 @@
 
 К серверу подключаются пользователи (в том числе и сам Администратор может выступать в двух ролях), при помощи клиентской части (файл `Client`), работают с программой:
 
-![First client screen](/img/client01.png)
+![First client screen](https://github.com/Ask1509/Software_Architecture_HW10/blob/b695495918e058499d15f3a3afc4c53b03c76e9f/img/client01.png)
 
 ![Second client screen](/img/client02.png)
 
