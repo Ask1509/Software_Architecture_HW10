@@ -6,12 +6,12 @@
 
 По факту будет даже не одно приложение, а два (сервер и клиент), взаимодействующие друг с другом.
 
-![Usecase diagram](/img/page01.png "Usecase diagram")
+![Usecase diagram](/img/page01.png)
 
 
 На следующей иллюстрации отображен полный цикл работы приложений:
 
-![Flow diagram](/img/page02.png "Flow diagram")
+![Flow diagram](/img/page02.png)
 
 
 Клиентскую и серверную части реализуем по модели MVC: это будет удобно для дальней разработки, например переходу от использования JFrame в UI к более продвинутым инструментам проектирования пользовательского интерфейса.
@@ -20,29 +20,29 @@
 
 И при написании кода воспользуемся развернутой диаграммой классов, которая, если не считать деталей реализации, практически полностью описывает наши приложения:
 
-![Class diagram](/img/page03.png "Class diagram")
+![Class diagram](/img/page03.png)
 
 
 ## Работа с приложением
 Администратор запускает сервер (файл `Server`), указывая его адрес и порт, который он будет слушать.
 
-![Administrator screen](/img/server01.png "Administrator screen")
+![Administrator screen](/img/server01.png)
 
 К серверу подключаются пользователи (в том числе и сам Администратор может выступать в двух ролях), при помощи клиентской части (файл `Client`), работают с программой:
 
-![First client screen](/img/client01.png "First client screen")
+![First client screen](/img/client01.png)
 
-![Second client screen](/img/client02.png "Second client screen")
+![Second client screen](/img/client02.png)
 
 
 
 Отключаются от сервера:
 
-![First client screen](/img/client04.png "First client screen")
+![First client screen](/img/client04.png")
 
-![Second client screen](/img/client03.png "Second client screen")
+![Second client screen](/img/client03.png)
 
-![Administrator screen](/img/server02.png "Administrator screen")
+![Administrator screen](/img/server02.png)
 
 Администратор останавливает сервер, завершив работу приложения.
 
@@ -51,4 +51,4 @@
 Переход в UI от JFrame к JavaFX, или связке HTML, CSS, Typescript.
 Или даже реализация на другом языке, но это будет уже совсем другая история…
 
-![Class diagram from future](/img/BigScreen.png "Class diagram from future")
+![Class diagram from future](/img/BigScreen.png)
